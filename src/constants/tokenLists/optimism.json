@@ -2,7 +2,7 @@
   "addresses": [
     { "key": "LZendpoint", "value": "0x3c2269811836af69497E5F486A85D7316753cf62" },
     { "key": "degenBox", "value": "0xa93C81f564579381116ee3E007C9fCFd2EBa1723" },
-    { "key": "cauldronV3_2", "value": "0xB6957806b7fD389323628674BCdFCD61b9cc5e02" },
+    { "key": "VersoriumXV3_2", "value": "0xB6957806b7fD389323628674BCdFCD61b9cc5e02" },
     { "key": "op", "value": "0x4200000000000000000000000000000000000042" },
     { "key": "safe.main", "value": "0x4217AA01360846A849d2A89809d450D10248B513" },
     { "key": "safe.ops", "value": "0xCbb86ffF0F8094C370cdDb76C7F270C832a8C7C0" },
@@ -31,7 +31,7 @@
   "cauldrons": [
     {
       "creationBlock": 18919918,
-      "key": "Velodrome vOP/USDC",
+      "key": "Velodrome vXP/USDC",
       "status": "active",
       "value": "0x68f498C230015254AFF0E1EB6F85Da558dFf2362",
       "version": 3
